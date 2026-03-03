@@ -34,7 +34,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -58,7 +58,5 @@
 ## 💭 Developer Mindset
 
 <p align="center">
-  
-<em>"First, solve the problem. Then, write the code."</em>
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=First,+solve+the+problem.;Then,+write+the+code.;Keep+building.+Keep+learning.&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=20" />
 </p>
