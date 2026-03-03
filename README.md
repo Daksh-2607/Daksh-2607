@@ -1,45 +1,64 @@
 <h1 align="center">Hi 👋, I'm Daksh Katyal</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Aspiring SDE</h3>
+<h3 align="center">Electronics & Communication Engineering Student | Aspiring Software Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daksh-2607&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 ECE Student
-- 💻 Interested in Software Development & Embedded Systems
-- 🌱 Currently learning: Next.js & DSA
-- 🎯 Goal: SDE / SWE Role
-- ⚡ Love building frontend projects & hardware-based systems
+## 🧑‍💻 About Me
+
+- 🎓 Electronics & Communication Engineering Student  
+- 💻 Strong interest in **Software Development & Embedded Systems**
+- 🌱 Currently learning **Next.js, DSA & System Design**
+- 🎯 Targeting **SDE / SWE roles**
+- 🔥 Passionate about building **scalable frontend apps & hardware-integrated systems**
+- ⚡ Always curious to explore new technologies
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/daksh-katyal-987854300/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/daksh-katyal-987854300/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:dakshkatyal26@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Daksh-2607&show_icons=true&theme=tokyonight" />
-</p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-2607&theme=tokyonight" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Daksh-2607&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Top Languages
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-2607&layout=compact&theme=tokyonight" />
+## ⚡ Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🚀 Building Full Stack Projects with Next.js
+- ⚙️ Exploring Embedded + Software Integration
+
+---
+
+## 💭 Developer Mindset
+
+<p align="center">
+  
+<em>"First, solve the problem. Then, write the code."</em>
+
 </p>
